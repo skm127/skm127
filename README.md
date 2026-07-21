@@ -6,14 +6,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:2563EB&height=220&section=header&text=Hi%20There%20👋%20I'm%20[YOUR%20NAME]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:2563EB&height=220&section=header&text=Hi%20There%20👋%20I'm%20[Shubhendu kumar mishra]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+%2F+ML+Engineer;Open+Source+Contributor;Building+things+that+scale" alt="Typing SVG" />
 
 <br/>
 
-[![Academic](https://img.shields.io/badge/🎓-[YOUR%20DEGREE]-6366F1?style=flat-square)](#)
-[![Location](https://img.shields.io/badge/📍-[YOUR%20CITY,%20COUNTRY]-6366F1?style=flat-square)](#)
+[![Academic](https://img.shields.io/badge/🎓-[Btech_CSE_DS]-6366F1?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/📍-[Samabalpur,India]-6366F1?style=flat-square)](#)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-7C3AED?style=for-the-badge)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhendu-kumar-mishra-464607369)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhendukumarmishra688@gmail.com)
