@@ -32,10 +32,10 @@
 
 ```yaml
 name: Shubhendu Kumar Mishra
-role: Full-Stack Developer & Problem Solver
-education: Computer Science & Engineering
-passions: [Full-Stack Development, Generative AI, Clean Architecture, Systems Design]
-current_focus: Building modern scalable web apps & mastering Data Structures & Algorithms
+role: Data Analyst/Scientist & Problem Solver
+education: Computer Science & Engineering with specilization in data science
+passions: [Data Science , Robotics Engineering , Generative AI, Clean Architecture, Systems Design]
+current_focus: Building modern scalable web apps & mastering Data Structures & Algorithms with data science tools 
 fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧"
 ```
 
