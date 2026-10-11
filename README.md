@@ -52,7 +52,7 @@ fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧
   <a href="https://github.com/skm127" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/skm127" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhendu-kumar-mishra-464607369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/skm127" target="_blank">
