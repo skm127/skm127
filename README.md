@@ -18,10 +18,11 @@
   <!-- Profile Visitor Counter & Status Badges -->
   <p align="center">
     <a href="https://github.com/skm127">
-      <img src="https://komarev.com/ghpvc/?username=skm127&color=7952e9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+      <img src="https://api.visitorbadge.io/api/visitors?path=skm127&label=PROFILE%20VIEWS&labelColor=%2318181b&countColor=%237952e9&style=for-the-badge" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-00d26a?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%26%20AI-blue?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS%20%26%20AI-2563eb?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/SPECIALIZATION-DATA%20SCIENCE-7952e9?style=for-the-badge&logo=databricks&logoColor=white" alt="Specialization" />
   </p>
 
 </div>
@@ -79,6 +80,17 @@ fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+#### 📊 Data Science, Analytics & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 #### 🎨 Frontend & UI Ecosystem
