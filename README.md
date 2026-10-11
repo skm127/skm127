@@ -1,4 +1,9 @@
 <div align="center">
+
+  <!-- Starry Night Pixel Art Banner -->
+  <img src="https://raw.githubusercontent.com/skm127/skm127/main/starry-night-banner.jpg" alt="Starry Night Pixel Art Banner" width="100%">
+
+  <br>
   <a href="https://github.com/skm127/skm127">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skm127/skm127/main/dark.svg">
