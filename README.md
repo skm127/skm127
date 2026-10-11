@@ -156,21 +156,33 @@ fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Code Language Converter</h3>
       <p align="center">
-        An AI-powered universal syntax transformer built with <b>Next.js 16, Monaco Editor & Google Gemini 2.5 Flash</b>. Features real-time multi-language code conversion with a studio dark-mode IDE interface.
+        <img src="https://img.shields.io/badge/★_FLAGSHIP_PROJECT-00d26a?style=for-the-badge&logo=target&logoColor=white" alt="Flagship Project" />
+      </p>
+      <h3 align="center">🌊 SAGAR-VIEW</h3>
+      <p align="center">
+        An interactive <b>3D web platform for real-time ocean intelligence</b>, integrating numerical ocean model forecasts with live Argo in-situ sensor data.
       </p>
       <p align="center">
-        <a href="https://github.com/skm127/code-language-converter"><b>Explore Repo »</b></a>
+        <code>TypeScript</code> • <code>3D WebGL</code> • <code>Ocean Sensors & Intelligence</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/skm127/SAGAR-VIEW"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Full-Stack eCommerce</h3>
       <p align="center">
-        A full-fledged modern eCommerce platform crafted with <b>React, Tailwind CSS & State Management</b>. Includes dynamic product catalogs, filtering, cart management, and responsive checkouts.
+        <img src="https://img.shields.io/badge/★_AI_AUTONOMOUS-7952e9?style=for-the-badge&logo=robot&logoColor=white" alt="Autonomous AI" />
+      </p>
+      <h3 align="center">🤖 LIS-2.0</h3>
+      <p align="center">
+        Next-generation <b>AI autonomous system</b> engineered for intelligent workflows, automated decision reasoning, and multi-agent task execution.
       </p>
       <p align="center">
-        <a href="https://github.com/skm127/ecommerse-project"><b>Explore Repo »</b></a>
+        <code>Python</code> • <code>Autonomous Agents</code> • <code>AI Systems</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/skm127/LIS-2.0"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -178,19 +190,25 @@ fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧
     <td width="50%" valign="top">
       <h3 align="center">📊 EduAnalytics-Pro</h3>
       <p align="center">
-        Performance evaluation and analytics suite engineered to track academic progress and metrics with insightful data visualization dashboards.
+        Comprehensive academic performance evaluation and predictive data analytics suite featuring rich data visualization dashboards.
       </p>
       <p align="center">
-        <a href="https://github.com/skm127/EduAnalytics-Pro"><b>Explore Repo »</b></a>
+        <code>Data Analytics</code> • <code>Visualization</code> • <code>Python</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/skm127/EduAnalytics-Pro"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 LeetCode & Problem Solving</h3>
+      <h3 align="center">🛒 Full-Stack eCommerce</h3>
       <p align="center">
-        Curated collection of optimal solutions for algorithmic challenges and data structure patterns across Arrays, Trees, Graphs, and Dynamic Programming.
+        A modern, modular eCommerce platform featuring responsive product catalogs, state-managed shopping carts, and checkout pipelines.
       </p>
       <p align="center">
-        <a href="https://github.com/skm127/Leetcode"><b>Explore Repo »</b></a>
+        <code>React</code> • <code>Tailwind CSS</code> • <code>Full Stack</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/skm127/ecommerse-project"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -213,7 +231,15 @@ fun_fact: "I solve bugs faster when listening to synthwave or lo-fi at 2 AM 🎧
 ### 💬 Daily Dev Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <!-- Dynamic Changing Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+
+  <br><br>
+
+  <!-- Pinterest Animated Chill Dev Video -->
+  <a href="https://pin.it/62dOL5GuF" target="_blank">
+    <img src="https://raw.githubusercontent.com/skm127/skm127/main/dev-inspiration.gif" alt="Daily Dev Inspiration" width="560" />
+  </a>
 </div>
 
 <br>
